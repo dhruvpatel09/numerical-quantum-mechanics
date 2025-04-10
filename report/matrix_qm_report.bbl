@@ -1,0 +1,329 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{golub13}{book}{}
+      \name{author}{2}{}{%
+        {{hash=8b856da92ad549d323acc679ecf7f474}{%
+           family={Golub},
+           familyi={G\bibinitperiod},
+           given={Gene\bibnamedelima H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=701dffbe58a1ce899093fee54a7fc6e7}{%
+           family={Loan},
+           familyi={L\bibinitperiod},
+           given={Charles\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JHU Press}%
+      }
+      \strng{namehash}{e1bcf75598401ae00e4c2d599e2dde3b}
+      \strng{fullhash}{e1bcf75598401ae00e4c2d599e2dde3b}
+      \strng{bibnamehash}{e1bcf75598401ae00e4c2d599e2dde3b}
+      \strng{authorbibnamehash}{e1bcf75598401ae00e4c2d599e2dde3b}
+      \strng{authornamehash}{e1bcf75598401ae00e4c2d599e2dde3b}
+      \strng{authorfullhash}{e1bcf75598401ae00e4c2d599e2dde3b}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Fourth}
+      \field{isbn}{1421407949 9781421407944}
+      \field{title}{Matrix Computations}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://epubs.siam.org/doi/book/10.1137/1.9781421407944
+      \endverb
+      \verb{url}
+      \verb https://epubs.siam.org/doi/book/10.1137/1.9781421407944
+      \endverb
+      \keyw{GvL,linear algebra,eigenvalues}
+    \endentry
+    \entry{Griffiths2004Introduction}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a00328547222c4a2a201442ee59dccfd}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Prentice Hall}%
+      }
+      \strng{namehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{fullhash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{bibnamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorbibnamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authornamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorfullhash}{a00328547222c4a2a201442ee59dccfd}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This book first teaches learners how to do quantum mechanics, and then provides them with a more insightful discussion of what it means. Fundamental principles are covered, quantum theory presented, and special techniques developed for attacking realistic problems. For physicists and engineers.}
+      \field{edition}{2nd}
+      \field{isbn}{0131118927}
+      \field{month}{4}
+      \field{title}{{Introduction to Quantum Mechanics (2nd Edition)}}
+      \field{year}{2004}
+      \keyw{book,quantum-mechanics}
+    \endentry
+    \entry{Heath2002}{book}{}
+      \name{author}{1}{}{%
+        {{hash=99d060871d5d8d68d5c789f272815ebf}{%
+           family={Heath},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill}%
+      }
+      \strng{namehash}{99d060871d5d8d68d5c789f272815ebf}
+      \strng{fullhash}{99d060871d5d8d68d5c789f272815ebf}
+      \strng{bibnamehash}{99d060871d5d8d68d5c789f272815ebf}
+      \strng{authorbibnamehash}{99d060871d5d8d68d5c789f272815ebf}
+      \strng{authornamehash}{99d060871d5d8d68d5c789f272815ebf}
+      \strng{authorfullhash}{99d060871d5d8d68d5c789f272815ebf}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{isbn}{9780071244893}
+      \field{title}{Scientific Computing: An Introductory Survey}
+      \field{year}{2002}
+      \keyw{scientific computing,numerical methods}
+    \endentry
+    \entry{Higham2002}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5bec9d02065c9b35d45c881a24f7a1cd}{%
+           family={Higham},
+           familyi={H\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Society for Industrial}%
+        {Applied Mathematics}%
+      }
+      \strng{namehash}{5bec9d02065c9b35d45c881a24f7a1cd}
+      \strng{fullhash}{5bec9d02065c9b35d45c881a24f7a1cd}
+      \strng{bibnamehash}{5bec9d02065c9b35d45c881a24f7a1cd}
+      \strng{authorbibnamehash}{5bec9d02065c9b35d45c881a24f7a1cd}
+      \strng{authornamehash}{5bec9d02065c9b35d45c881a24f7a1cd}
+      \strng{authorfullhash}{5bec9d02065c9b35d45c881a24f7a1cd}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Second}
+      \field{title}{Accuracy and Stability of Numerical Algorithms}
+      \field{year}{2002}
+      \verb{doi}
+      \verb 10.1137/1.9780898718027
+      \endverb
+      \verb{urlraw}
+      \verb https://epubs.siam.org/doi/abs/10.1137/1.9780898718027
+      \endverb
+      \verb{url}
+      \verb https://epubs.siam.org/doi/abs/10.1137/1.9780898718027
+      \endverb
+    \endentry
+    \entry{Lanczos:1950:IMS}{article}{}
+      \name{author}{1}{}{%
+        {{hash=566cbec89d411ac615d67809e3083f19}{%
+           family={Lanczos},
+           familyi={L\bibinitperiod},
+           given={Cornelius},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{566cbec89d411ac615d67809e3083f19}
+      \strng{fullhash}{566cbec89d411ac615d67809e3083f19}
+      \strng{bibnamehash}{566cbec89d411ac615d67809e3083f19}
+      \strng{authorbibnamehash}{566cbec89d411ac615d67809e3083f19}
+      \strng{authornamehash}{566cbec89d411ac615d67809e3083f19}
+      \strng{authorfullhash}{566cbec89d411ac615d67809e3083f19}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents an iterative method, now known as the Lanczos algorithm, for solving eigenvalue problems associated with linear differential and integral operators.}
+      \field{issn}{0160-1741 (print), 2376-5259 (electronic)}
+      \field{journaltitle}{Journal of Research of the National Bureau of Standards}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{An iteration method for the solution of the eigenvalue problem of linear differential and integral operators}
+      \field{volume}{45}
+      \field{year}{1950}
+      \field{pages}{255\bibrangedash 282}
+      \range{pages}{28}
+      \verb{doi}
+      \verb https://doi.org/10.6028/jres.045.026
+      \endverb
+    \endentry
+    \entry{10.5555/248511}{book}{}
+      \name{author}{1}{}{%
+        {{hash=79e6441a984222891fef386272ea0bc2}{%
+           family={Pacheco},
+           familyi={P\bibinitperiod},
+           given={Peter\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, CA, USA}%
+      }
+      \list{publisher}{1}{%
+        {Morgan Kaufmann Publishers Inc.}%
+      }
+      \strng{namehash}{79e6441a984222891fef386272ea0bc2}
+      \strng{fullhash}{79e6441a984222891fef386272ea0bc2}
+      \strng{bibnamehash}{79e6441a984222891fef386272ea0bc2}
+      \strng{authorbibnamehash}{79e6441a984222891fef386272ea0bc2}
+      \strng{authornamehash}{79e6441a984222891fef386272ea0bc2}
+      \strng{authorfullhash}{79e6441a984222891fef386272ea0bc2}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1558603395}
+      \field{title}{Parallel Programming with MPI}
+      \field{year}{1996}
+    \endentry
+    \entry{Press2007}{book}{}
+      \name{author}{4}{}{%
+        {{hash=0eab1ccd4d6c57a2ff6794a4724ccafb}{%
+           family={Press},
+           familyi={P\bibinitperiod},
+           given={William\bibnamedelima H.},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=ff8354846900d7ef6c94cb025f7e938c}{%
+           family={Teukolsky},
+           familyi={T\bibinitperiod},
+           given={Saul\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0bb298496cc38e45b21c576a005078a0}{%
+           family={Vetterling},
+           familyi={V\bibinitperiod},
+           given={William\bibnamedelima T.},
+           giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=f40726c661611c8a024d53294b6e0ad0}{%
+           family={Flannery},
+           familyi={F\bibinitperiod},
+           given={Brian\bibnamedelima P.},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{618fa62f030076edf2937faa1b1684fb}
+      \strng{fullhash}{f75c24a04994b574cb620c685a1f8229}
+      \strng{bibnamehash}{618fa62f030076edf2937faa1b1684fb}
+      \strng{authorbibnamehash}{618fa62f030076edf2937faa1b1684fb}
+      \strng{authornamehash}{618fa62f030076edf2937faa1b1684fb}
+      \strng{authorfullhash}{f75c24a04994b574cb620c685a1f8229}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd}
+      \field{isbn}{0521880688}
+      \field{title}{Numerical Recipes 3rd Edition: The Art of Scientific Computing}
+      \field{year}{2007}
+    \endentry
+    \entry{Sakurai:1341875}{book}{}
+      \name{author}{2}{}{%
+        {{hash=2a0142dcf0424b77c2f88a3681c7823f}{%
+           family={Sakurai},
+           familyi={S\bibinitperiod},
+           given={Jun\bibnamedelima John},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b87d786f54d3cf33fabdda13f1df174d}{%
+           family={Napolitano},
+           familyi={N\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, CA}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{e2f06043b51f62807aaa99574b4e048e}
+      \strng{fullhash}{e2f06043b51f62807aaa99574b4e048e}
+      \strng{bibnamehash}{e2f06043b51f62807aaa99574b4e048e}
+      \strng{authorbibnamehash}{e2f06043b51f62807aaa99574b4e048e}
+      \strng{authornamehash}{e2f06043b51f62807aaa99574b4e048e}
+      \strng{authorfullhash}{e2f06043b51f62807aaa99574b4e048e}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modern Quantum Mechanics; 2nd ed.}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://cds.cern.ch/record/1341875
+      \endverb
+      \verb{url}
+      \verb https://cds.cern.ch/record/1341875
+      \endverb
+    \endentry
+    \entry{doi:10.1137/1.9780898719598}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e3376455eaec77b00950a1dc9ce095f5}{%
+           family={Trefethen},
+           familyi={T\bibinitperiod},
+           given={Lloyd\bibnamedelima N.},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Society for Industrial}%
+        {Applied Mathematics}%
+      }
+      \strng{namehash}{e3376455eaec77b00950a1dc9ce095f5}
+      \strng{fullhash}{e3376455eaec77b00950a1dc9ce095f5}
+      \strng{bibnamehash}{e3376455eaec77b00950a1dc9ce095f5}
+      \strng{authorbibnamehash}{e3376455eaec77b00950a1dc9ce095f5}
+      \strng{authornamehash}{e3376455eaec77b00950a1dc9ce095f5}
+      \strng{authorfullhash}{e3376455eaec77b00950a1dc9ce095f5}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Spectral Methods in MATLAB}
+      \field{year}{2000}
+      \verb{doi}
+      \verb 10.1137/1.9780898719598
+      \endverb
+      \verb{urlraw}
+      \verb https://epubs.siam.org/doi/abs/10.1137/1.9780898719598
+      \endverb
+      \verb{url}
+      \verb https://epubs.siam.org/doi/abs/10.1137/1.9780898719598
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

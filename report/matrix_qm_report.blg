@@ -1,0 +1,19 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'matrix_qm_report.blg'
+[62] biber:322> INFO - === Wed Apr  9, 2025, 17:54:56
+[82] Biber.pm:415> INFO - Reading 'matrix_qm_report.bcf'
+[134] Biber.pm:943> INFO - Found 9 citekeys in bib section 0
+[144] Biber.pm:4256> INFO - Processing section 0
+[145] Utils.pm:75> INFO - Globbing data source 'references.bib'
+[145] Utils.pm:91> INFO - Globbed data source 'references.bib' to references.bib
+[156] Biber.pm:4455> INFO - Looking for bibtex format file 'references.bib' for section 0
+[161] bibtex.pm:1653> INFO - LaTeX decoding ...
+[171] bibtex.pm:1471> INFO - Found BibTeX data source 'references.bib'
+[228] Utils.pm:293> WARN - ISBN '1421407949 9781421407944' in entry 'golub13' is invalid - run biber with '--validate_datamodel' for details.
+[251] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[251] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[251] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[251] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[263] bbl.pm:652> INFO - Writing 'matrix_qm_report.bbl' with encoding 'UTF-8'
+[267] bbl.pm:755> INFO - Output to matrix_qm_report.bbl
+[267] Biber.pm:128> INFO - WARNINGS: 1

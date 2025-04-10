@@ -1,0 +1,28 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Theory}{}% 2
+\BOOKMARK [1][-]{section.2.1}{From Classical to Quantum Mechanics}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Stationary States and Eigenvalue Problem}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.3}{Matrix Formulation and Discretization}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.4}{Lanczos Algorithm for Eigenvalue Problems}{chapter.2}% 6
+\BOOKMARK [0][-]{chapter.3}{Numerical Methods and Parallelization}{}% 7
+\BOOKMARK [1][-]{section.3.1}{Discretization Scheme}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.2}{Lanczos Algorithm Implementation}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.3}{Hybrid MPI+OpenMP Parallelization}{chapter.3}% 10
+\BOOKMARK [0][-]{chapter.4}{Results: Strong Scaling Performance}{}% 11
+\BOOKMARK [1][-]{section.4.1}{Serial Implementation}{chapter.4}% 12
+\BOOKMARK [1][-]{section.4.2}{Parallel Implementation}{chapter.4}% 13
+\BOOKMARK [2][-]{subsection.4.2.1}{Parallel Implementation on Google Colab}{section.4.2}% 14
+\BOOKMARK [2][-]{subsection.4.2.2}{Parallel Implementation on Stromboli Cluster}{section.4.2}% 15
+\BOOKMARK [0][-]{chapter.5}{Conclusion and Outlook}{}% 16
+\BOOKMARK [0][-]{section*.3}{Appendices}{}% 17
+\BOOKMARK [0][-]{appendix.A}{Python/MPI Program Code Listings}{}% 18
+\BOOKMARK [1][-]{section.A.1}{Lanczos Algorithm Implementation}{appendix.A}% 19
+\BOOKMARK [1][-]{section.A.2}{Loading C/OpenMP library \046 defining function signatures}{appendix.A}% 20
+\BOOKMARK [1][-]{section.A.3}{MPI Helper Functions}{appendix.A}% 21
+\BOOKMARK [1][-]{section.A.4}{Python wrappers for calling C routines}{appendix.A}% 22
+\BOOKMARK [0][-]{appendix.B}{C/OpenMP Program Code Listings}{}% 23
+\BOOKMARK [1][-]{section.B.1}{C Kernel for Hamiltonian Application}{appendix.B}% 24
+\BOOKMARK [1][-]{section.B.2}{C Kernel for Modified Gram-Schmidt}{appendix.B}% 25
+\BOOKMARK [0][-]{appendix.C}{Shell Script Listings}{}% 26
+\BOOKMARK [1][-]{section.C.1}{Shell Script for Job Submission}{appendix.C}% 27
+\BOOKMARK [0][-]{appendix*.4}{Bibliography}{}% 28

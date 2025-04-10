@@ -1,0 +1,57 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Theory}{3}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}From Classical to Quantum Mechanics}{3}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Stationary States and Eigenvalue Problem}{4}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Matrix Formulation and Discretization}{4}{section.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Lanczos Algorithm for Eigenvalue Problems}{5}{section.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Numerical Methods and Parallelization}{6}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Discretization Scheme}{6}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Lanczos Algorithm Implementation}{6}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Hybrid MPI+OpenMP Parallelization}{8}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Results: Strong Scaling Performance}{9}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Serial Implementation}{9}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Parallel Implementation}{10}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Parallel Implementation on Google Colab}{10}{subsection.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Parallel Implementation on Stromboli Cluster}{12}{subsection.4.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Conclusion and Outlook}{16}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Appendices}{18}{section*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Python/MPI Program Code Listings}{19}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Lanczos Algorithm Implementation}{19}{section.A.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Loading C/OpenMP library \& defining function signatures}{20}{section.A.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}MPI Helper Functions}{21}{section.A.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}Python wrappers for calling C routines}{22}{section.A.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}C/OpenMP Program Code Listings}{23}{appendix.B}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.1}C Kernel for Hamiltonian Application}{23}{section.B.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.2}C Kernel for Modified Gram-Schmidt}{23}{section.B.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {C}Shell Script Listings}{25}{appendix.C}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.1}Shell Script for Job Submission}{25}{section.C.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{27}{appendix*.4}%
