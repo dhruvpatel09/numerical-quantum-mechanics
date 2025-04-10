@@ -58,7 +58,7 @@ This project presents a comprehensive framework for tackling quantum mechanical 
     ```
 
 4. **(Optional) Install Python Dependencies:**
-Ensure that you have installed `numpy`, `mpi4py`, `scipy`, and `matplotlib`**
+Ensure that you have installed `numpy`, `mpi4py`, `scipy`, and `matplotlib`:
 
     ```bash
     pip install numpy mpi4py scipy matplotlib
@@ -102,7 +102,7 @@ python src/colab-notebooks/serial/matrix_qm_serial.py
     srun python src/python-mpi/matrix_qm_parallel_mpi_omp.py --N ${<grid_size>} --m ${<krylov_size>} --output_dir ${<output_directory>}  
     ```
 
-    (For testing, use smaller values of `N`, `m`, and a designated output directory.)
+    For testing, use smaller values of `N`, `m`, and a designated output directory.
 
 ## Report
 
