@@ -140,9 +140,3 @@ Contributions to improve this project are welcome. Feel free to fork the reposit
 This project is licensed under the terms of the [MIT License](https://choosealicense.com/licenses/mit/).
 
 ##
-
-#### **Happy Coding!**
-
-```css
-This README.md file covers an overview of the project, installation instructions, usage details for both serial and parallel implementations, report information, and license details. It is written in a professional, clear, and scientific tone to appeal to a broad audience, including potential contributors.
-```
